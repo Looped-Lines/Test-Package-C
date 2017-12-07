@@ -1,0 +1,15 @@
+{
+  "name": "@looped-lines-test-org/testpackage-c",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@looped-lines-test-org/testpackage-a": "^1.0.0",
+    "@looped-lines-test-org/testpackage-b": "^1.0.0"
+  }
+}
